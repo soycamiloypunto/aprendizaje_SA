@@ -1,28 +1,40 @@
 ## Aporte a la construcción de comunidades de aprendizaje 
 
-Comenzando a ser un experto.
-Cristian Camilo Tabares V
-G8 Ciclo 4 
-Universidad Sergio Arboleda
+#####Comenzando a ser un experto.<br>
+#####Cristian Camilo Tabares V<br>
+#####G8 Ciclo 4 <br>
+#####Universidad Sergio Arboleda<br>
 
 A continuación encontrarán una recopilación de Libros y documentación sobre: Java, Javascript y Python. La documentación forma parte de la recopilación que he hecho durante todos los ciclos sobre archivos libres para todos.  
 
+### Libros Generales
+[Aprender Python – Python Argentina](https://wiki.python.org.ar/aprendiendopython/).
+[Aprender Java – Java Hispano](https://kutt.it/java-hispano).
+[Apuntes Completos de Desarrollo Web – Jorge Sánchez](https://kutt.it/apuntes-desarrollo-web-jorge).
+
 ### Python
+[Aprenda a pensar como programador](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf).
+[Aprenda Python de Cero a Experto](https://leanpub.com/aprende-python/).
+[El Libro de Python](https://ellibrodepython.com/).
 
+### JAVA
+[Aprenda JAVA como si estuviera en primero](https://fiwiki.org/images/9/9c/Aprenda_Java_como_si_estuviera_en_primero.pdf).
+[Aprendiendo JAVA y POO](https://www.decom-uv.cl/~roberto/apuntes/java/AprendiendoJava.pdf).
+[Estructura CSS](https://es.learnlayout.com/).
+[Estructura CSS](https://es.learnlayout.com/).
 
-```markdown
-Fundamentos Python: 
-[Link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj696-5xL70AhWJSjABHYOPCl4QFnoECAMQAQ&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FPedro-Gomis%2Fpublication%2F325387232_Fundamentos_de_Programacion_en_Python_Spanish%2Flinks%2F5b09eae8aca2725783e853f8%2FFundamentos-de-Programacion-en-Python-Spanish.pdf&usg=AOvVaw2ANvNsQfb8xk2XECCm7ktE ) and ![Image](https://www.ediciones-eni.com/libro/python-3-los-fundamentos-del-lenguaje-3a-edicion-9782409024788_XL.jpg)
+### Bases de Datos
+[Todo sobre Bases de Datos desde 0](https://ciberninjas.com/bases-datos/).
+[Consultas MONGODB](https://tutorialesenpdf.com/mongodb/previsualizacion/Consultas%20en%20MongoDB.pdf).
+[Mongo en Español](https://tutorialesenpdf.com/mongodb/previsualizacion/MongoDB%20en%20espa%C3%B1ol%20El%20principio.pdf).
 
+### Desarrollo Web
+[Estructura CSS](https://es.learnlayout.com/).
+[Diseño e Interfaces WEB](https://interfacesweb.github.io/unidades/).
+[HTML5](https://www.arkaitzgarro.com/html5).
+[Fundamentos de JAVASCRIPT](https://lookaside.fbsbx.com/file/js-notesByMajoLedesma.pdf?token=AWwMwTsvr7tH4eYfiuNntACHnAzUkhcDsClQ0-OgUnvSDUVdwB3ZIaUDZbyd28BQCtrwWtg0AFenNc5PBzIN8blL3gfhWmVbjN486OrhMcLRGIwHqAHX4lNi5OeeecN-lf0TVe9iyw5bN6X-n6HGzmr-r398NH4pNIr0W3fhxFAgzw).
+[CSS3 y Javascript Avanzado](https://openlibra.com/es/book/download/css3-y-javascript-avanzado).
+[Fundamentos de JQUERY](https://librosweb.es/libro/fundamentos_jquery).
+[Fundamentos REACT](https://lookaside.fbsbx.com/file/React-Notes-MajoLedesma.pdf?token=AWxLqjFoHPZLfLUfVPnZmpc61WJXY_4RHl8Rfj4tPTBR0CO58_Rt6OEmJck4_WDhPiW9rKX8sqGMzPvY9RqkUY3qXCyN3GcQ7cnoMxHCfOOEjBTR9XTs7nnIxxDx70RDbOjO4ncfOmNv1TliY5oOA1eMxtbi7YCt8yh29ykASBCT2A).
+[Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux?).
 
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soycamiloypunto/aprendizaje_SA/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
