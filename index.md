@@ -1,29 +1,20 @@
 ## Aporte a la construcción de comunidades de aprendizaje 
 
-You can use the [editor on GitHub](https://github.com/soycamiloypunto/aprendizaje_SA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Comenzando a ser un experto.
+Cristian Camilo Tabares V
+G8 Ciclo 4 
+Universidad Sergio Arboleda
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A continuación encontrarán una recopilación de Libros y documentación sobre: Java, Javascript y Python. La documentación forma parte de la recopilación que he hecho durante todos los ciclos sobre archivos libres para todos.  
 
-### Markdown
+### Python
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Fundamentos Python: 
+[Link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj696-5xL70AhWJSjABHYOPCl4QFnoECAMQAQ&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FPedro-Gomis%2Fpublication%2F325387232_Fundamentos_de_Programacion_en_Python_Spanish%2Flinks%2F5b09eae8aca2725783e853f8%2FFundamentos-de-Programacion-en-Python-Spanish.pdf&usg=AOvVaw2ANvNsQfb8xk2XECCm7ktE ) and ![Image](https://www.ediciones-eni.com/libro/python-3-los-fundamentos-del-lenguaje-3a-edicion-9782409024788_XL.jpg)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
