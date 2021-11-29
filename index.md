@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Aporte a la construcción de comunidades de aprendizaje 
 
 You can use the [editor on GitHub](https://github.com/soycamiloypunto/aprendizaje_SA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
