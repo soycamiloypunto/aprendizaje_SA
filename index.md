@@ -1,9 +1,9 @@
 ## Aporte a la construcción de comunidades de aprendizaje 
 
-Comenzando a ser un experto.<br>
-Cristian Camilo Tabares V<br>
-G8 Ciclo 4 <br>
-Universidad Sergio Arboleda<br>
+#### Comenzando a ser un experto.<br>
+#### Cristian Camilo Tabares V<br>
+#### Grupo 8 Ciclo 4 <br>
+#### Universidad Sergio Arboleda<br>
 
 A continuación encontrarán una recopilación de Libros y documentación sobre: Java, Javascript y Python. La documentación forma parte de la recopilación que he hecho durante todos los ciclos sobre archivos libres para todos.  
 
